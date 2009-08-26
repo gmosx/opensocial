@@ -1,0 +1,9 @@
+{
+    "name": "opensocial",
+    "description": "OpenSocial javascript client",
+    "keywords": ["opensocial", "rest", "client", "api", "google"],
+    "author": "George Moschovitis",
+    "email": "george.moschovitis@gmail.com",
+    "dependencies": [],
+    "lib": "lib",
+}
